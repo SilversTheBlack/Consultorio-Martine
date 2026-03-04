@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MartinsApplication<martins>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.michele.martins.MartinsApplication",
+            "projectName": "martins",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
